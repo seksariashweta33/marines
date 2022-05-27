@@ -29,7 +29,7 @@ git+https://github.com/seksariashweta33/clisp
 telegraph
 tenacity
 TgCrypto
-torrentool==1.1.0
+https://github.com/seksariashweta33/torrs
 urllib3
 pyshorteners
 youtube_dl
