@@ -1,6 +1,6 @@
 aiohttp
 anytree
-aria2p
+git+https://github.com/ujjal40/arerep
 appdirs
 attrdict
 beautifulsoup4
@@ -31,16 +31,14 @@ tenacity
 TgCrypto
 torrentool==1.1.0
 urllib3
-yt-dlp
 pyshorteners
 youtube_dl
 bs4
 natsort
 Pillow
 pytz
-yt-dlp
+git+https://github.com/ujjal40/pldty
 messages
-heroku3
 html-telegraph-poster
 cfscrape
 gitpython
