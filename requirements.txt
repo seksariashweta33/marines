@@ -23,9 +23,9 @@ pyshorteners
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
+git+https://github.com/ujjal40/qbkro
 requests
-speedtest-cli
+git+https://github.com/seksariashweta33/clisp
 telegraph
 tenacity
 TgCrypto
